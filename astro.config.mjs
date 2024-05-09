@@ -11,6 +11,6 @@ export default defineConfig({
     sitemap(),
   ],
   output: 'hybrid',
-  site: 'https://sitemap-trailing-slash.patrickreiner.com',
+  site: 'https://astro-rss-trailing-slash.patrickreiner.com',
   trailingSlash: 'never',
 })

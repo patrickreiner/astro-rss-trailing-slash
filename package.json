@@ -1,5 +1,5 @@
 {
-  "name": "sitemap-trailing-slash",
+  "name": "astro-rss-trailing-slash",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
